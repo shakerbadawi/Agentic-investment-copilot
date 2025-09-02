@@ -1,1 +1,16 @@
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+pypfopt
+prophet
+fastapi
+uvicorn[standard]
+streamlit
+pydantic
+transformers
+langchain
 
